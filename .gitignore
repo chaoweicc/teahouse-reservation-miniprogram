@@ -1,0 +1,12 @@
+# 微信开发者工具缓存文件
+.sitemap.json
+project.config.json.bak
+.idea/
+.vscode/
+# 本地日志
+logs/
+# node_modules（如果你的项目用了npm依赖才需要，没有就不用）
+node_modules/
+# 临时文件
+*.tmp
+*.log
